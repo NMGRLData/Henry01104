@@ -8,7 +8,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 272,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
@@ -23,7 +23,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 268,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
@@ -38,7 +38,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 264,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
@@ -53,7 +53,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 274,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
@@ -68,7 +68,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 272,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
