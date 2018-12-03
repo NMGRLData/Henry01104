@@ -8,7 +8,7 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "fn": 56,
+        "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "reviewed": true,
@@ -38,7 +38,7 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "fn": 57,
+        "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "reviewed": true,
@@ -64,7 +64,7 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "fn": 57,
+        "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "reviewed": true,
