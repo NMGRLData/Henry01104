@@ -1,7 +1,7 @@
 {
     "AX": {
-        "error": 0.0001578595957566479,
-        "fit": "Weighted Mean",
+        "error": 6.643261883502347e-05,
+        "fit": "Linear",
         "references": [
             {
                 "exclude": "ok",
@@ -20,7 +20,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0011129088271367
+        "value": 1.0011807947162614
     },
     "CDD": {
         "error": 0.0021370865585342174,
