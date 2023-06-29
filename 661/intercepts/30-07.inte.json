@@ -1,78 +1,113 @@
 {
     "Ar36": {
-        "error": 0.00027077152392772385,
+        "error": 0.0001711043027294325,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "fn": 270,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 277,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            0,
+            180,
+            238
+        ],
         "reviewed": true,
-        "value": 0.009313528796749859
+        "user_excluded": [],
+        "value": 0.009624273715284858
     },
     "Ar37": {
-        "error": 0.00539850688901247,
+        "error": 0.006102869550994423,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
-        "fn": 263,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 278,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            33,
+            82
+        ],
         "reviewed": true,
-        "value": 0.4148059130334419
+        "user_excluded": [],
+        "value": 0.4102077141648637
     },
     "Ar38": {
-        "error": 0.002663809103946377,
+        "error": 0.0029034683063894093,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
-        "fn": 265,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 278,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            0,
+            3
+        ],
         "reviewed": true,
-        "value": 0.6760272167840232
+        "user_excluded": [],
+        "value": 0.6770509035435821
     },
     "Ar39": {
-        "error": 0.01607676241665096,
+        "error": 0.010927980256609808,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "fn": 270,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 280,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [],
         "reviewed": true,
-        "value": 57.0710259591404
+        "user_excluded": [],
+        "value": 57.015386636625564
     },
     "Ar40": {
-        "error": 0.020598947368011697,
+        "error": 0.022553254685827973,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "fn": 264,
-        "include_baseline_error": false,
+        "fit": "parabolic",
+        "fn": 276,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            18,
+            85,
+            270,
+            223
+        ],
         "reviewed": true,
-        "value": 203.07639084254484
+        "user_excluded": [],
+        "value": 203.08009285460292
     },
     "Ar41": {
         "error": 0.013551301108464746,
